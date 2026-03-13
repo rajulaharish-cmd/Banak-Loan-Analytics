@@ -6,6 +6,5 @@ This project focuses on analyzing bank loan dismbursement trend. Focusing on bra
 
 🛠 Tools & Technologies
 
- Advance Excel - Quick summarization of raw data using pivot table and basic charts
- 
- Power BI= Interactive dashboard using slicers, disbursement trend analysis, Age wise loan borrowers, state wise loan distrbution
+= Advance Excel - Quick summarization of raw data using pivot table and basic charts
+= Power BI= Interactive dashboard using slicers, disbursement trend analysis, Age wise loan borrowers, state wise loan distrbution

@@ -43,8 +43,8 @@ The bank is financially strong with higher recoveries than disbursement, indicat
 * Opportunity to grow business and service loans
 
 **Loan Grade & Interest Insights**
-Majority loans fall under mid-grade categories (B, C, D)
-Higher risk grades → higher interest rates
+* Majority loans fall under mid-grade categories (B, C, D)
+* Higher risk grades → higher interest rates
 
 
 <img width="1300" height="742" alt="image" src="https://github.com/user-attachments/assets/57acf7ea-e49c-4e1d-9d47-a02211714dd0" />

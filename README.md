@@ -1,4 +1,3 @@
-<img width="1239" height="53" alt="image" src="https://github.com/user-attachments/assets/08367fd1-777e-4b18-b11f-9f3068d55980" /># Banak-Loan-Analytics
 ## 📌 Project Overview
 
 This project focuses on analyzing bank loan dismbursement trend. Focusing on branch performance. Loan category distrbution, deliquent borrowers, client grades using analytical tools.
@@ -13,7 +12,6 @@ This project focuses on analyzing bank loan dismbursement trend. Focusing on bra
 * Quality Assurance (QA): Validate data by comparing database records with dashboards to ensure accuracy.
 
 **📊 Key Business Insights**
-Overall Financial Performance
 * Total Loan Disbursed: ₹732.7M
 * Total Collection: ₹808.38M 
 * Total Interest Earned: ₹155.29M
@@ -26,16 +24,16 @@ The bank is financially strong with higher recoveries than disbursement, indicat
 * Missed Payments: 7,106 (~11%)
 * Loans Without Verification: 16.92K (~26%)
 
-**👥 Customer Segmentation (Age-wise)**
+**Customer Segmentation (Age-wise)**
 * 26–35: ~34.75% (highest)
 * 36–45: ~32.4%
 * Remaining segments contribute less
 
-**👉 Insight:**
+**Insight:**
 * Core borrowers are young working professionals (26–45)
 * Opportunity to expand into younger (18–25) and older (46+) segments
 
-**🏠 Loan Purpose Analysis**
+ **Loan Purpose Analysis**
 * Home Loans: ~40% (dominant segment)
 * Others: Services, Business, Trade
   
@@ -44,3 +42,9 @@ The bank is financially strong with higher recoveries than disbursement, indicat
 * Indicates portfolio concentration risk
 * Opportunity to grow business and service loans
 
+**Loan Grade & Interest Insights**
+Majority loans fall under mid-grade categories (B, C, D)
+Higher risk grades → higher interest rates
+
+
+<img width="1300" height="742" alt="image" src="https://github.com/user-attachments/assets/57acf7ea-e49c-4e1d-9d47-a02211714dd0" />
